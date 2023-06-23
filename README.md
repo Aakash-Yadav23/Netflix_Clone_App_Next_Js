@@ -60,3 +60,4 @@ Running commands with npm `npm run [command]`
 | command         | description                              |
 | :-------------- | :--------------------------------------- |
 | `dev`           | Starts a development instance of the app |
+# Netflix_Clone_App_Next_Js
